@@ -49,7 +49,7 @@ The [HAM10000 dataset Kaggle](https://www.kaggle.com/kmader/skin-cancer-mnist-ha
 
 4. **Exploration and Model Training:**
 
-   Explore the Jupyter notebooks in the `notebooks/` directory for data analysis and model training.
+   Explore the Jupyter notebooks in the `src/` directory for data analysis and model training.
 
 5. **Evaluate Models:**
 
