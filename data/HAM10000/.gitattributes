@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+hmnist_28_28_RGB.csv filter=lfs diff=lfs merge=lfs -text
