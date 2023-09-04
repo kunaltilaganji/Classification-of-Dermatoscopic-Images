@@ -41,6 +41,9 @@ The [HAM10000 dataset Kaggle](https://www.kaggle.com/kmader/skin-cancer-mnist-ha
    - Extract the dataset files into the `data/` directory.
    - Run data preprocessing scripts in the `src/` directory to prepare the dataset.
 
+
+![Dataset Stats](https://github.com/kunaltilaganji/Classification-of-Dermatoscopic-Images/blob/main/images/Graph%20of%20Loss%20and%20Accuracy.png)  
+
 4. **Exploration and Model Training:**
 
    Explore the Jupyter notebooks in the `notebooks/` directory for data analysis and model training.
@@ -48,6 +51,7 @@ The [HAM10000 dataset Kaggle](https://www.kaggle.com/kmader/skin-cancer-mnist-ha
 5. **Evaluate Models:**
 
    You can evaluate the trained models using the provided scripts in the `src/` directory.
+
 
 
 ## Acknowledgments
